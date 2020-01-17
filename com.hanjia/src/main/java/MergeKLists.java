@@ -1,34 +1,52 @@
 /**
  * @Author 大狼狗skr~
- * @Date 2020/1/16 14:42
+ * @Date 2020/1/17 19:23
  * @Version 1.0
  */
-public class MergeTwoLists {
+public class MergeKLists {
 
     public static void main(String[] args) {
-        System.out.println("in");
-        ListNode head = new ListNode(9);
-        ListNode a= new ListNode(-9);
-        ListNode b = new ListNode(3);
-        head.next=a;
-        a.next=b;
-        b.next=null;
 
-        ListNode head1 = new ListNode(5);
-        ListNode a1= new ListNode(5);
-        ListNode b1 = new ListNode(7);
+        ListNode head1 = new ListNode(1);
+        ListNode a1= new ListNode(3);
+        ListNode b1 = new ListNode(4);
         head1.next=a1;
         a1.next=b1;
         b1.next=null;
+        ListNode head = new ListNode(1);
+        ListNode a= new ListNode(4);
+        ListNode b = new ListNode(5);
+        head.next=a;
+        a.next=b;
+        b.next=null;
+        ListNode head2 = new ListNode(1);
+        ListNode a2= new ListNode(2);
+        ListNode b2 = new ListNode(6);
+        head2.next=a2;
+        a2.next=b2;
+        b2.next=null;
 
-        ListNode n = new Solution().mergeTwoLists(a,a1);
+        ListNode n = new Solution().mergeKLists(new ListNode[]{head,head1,a2});
+
         while (n!=null) {
             System.out.println(n.val);
             n=n.next;
         }
+
     }
 
-    static class Solution {
+     static class Solution {
+        public ListNode mergeKLists(ListNode[] lists) {
+            if (lists.length==0) return null;
+                for (int i = lists.length-1;i>0;i--){
+                    lists[i-1]=mergeTwoLists(lists[i],lists[i-1]);
+                }
+
+
+            return lists[0];
+        }
+
+
         public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
             if (l1==null&&l2==null)
                 return null;
@@ -68,17 +86,18 @@ public class MergeTwoLists {
 
             return head;
         }
+
+
     }
 
-
     static class ListNode {
-      int val;
-      ListNode next;
-      ListNode(int x) { val = x; }
-  }
+        int val;
+        ListNode next;
 
-
-
-
-
+        ListNode(int x) {
+            val = x;
+        }
+    }
 }
+
+
