@@ -10,7 +10,7 @@ public class CombinationSum {
 
     public static void main(String[] args) {
 
-        int[] test = {2,5,2,1,2};
+        int[] test = {1,2,3};
         List<List<Integer>> lists = new Solution().combinationSum(test,5);
         System.out.println(lists);
         System.out.println(lists.size());
