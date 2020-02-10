@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/IntegerReplacement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="175">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="e#144#145#0" expanded="true" />
                 <element signature="e#216#217#0" expanded="true" />
@@ -44,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SubarraysDivByK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="650">
+              <caret line="28" column="9" selection-start-line="11" selection-start-column="11" selection-end-line="28" selection-end-column="9" />
               <folding>
                 <element signature="e#141#142#0" expanded="true" />
                 <element signature="e#223#224#0" expanded="true" />
@@ -54,11 +54,87 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Merge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            <state relative-caret-position="504">
+              <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ValidSquare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#969#970#0" expanded="true" />
+                <element signature="e#1012#1013#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PartitionDisjoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SingleNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="3799" column="20" lean-forward="true" selection-start-line="3799" selection-start-column="20" selection-end-line="3799" selection-end-column="20" />
+              <folding>
+                <element signature="e#177013#177014#0" expanded="true" />
+                <element signature="e#177054#177055#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="580" column="40" lean-forward="true" selection-start-line="580" selection-start-column="40" selection-end-line="580" selection-end-column="40" />
+              <folding>
+                <element signature="e#26957#26958#0" expanded="true" />
+                <element signature="e#27022#27023#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/stream/Stream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="191" column="6" lean-forward="true" selection-start-line="191" selection-start-column="6" selection-end-line="191" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -121,12 +197,15 @@
         <option value="$PROJECT_DIR$/src/main/java/KthGrammar.java" />
         <option value="$PROJECT_DIR$/src/main/java/SubarraysDivByK.java" />
         <option value="$PROJECT_DIR$/src/main/java/Merge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ValidSquare.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PartitionDisjoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SingleNumber.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="325" />
-    <option name="y" value="165" />
+    <option name="x" value="613" />
+    <option name="y" value="85" />
     <option name="width" value="1750" />
     <option name="height" value="985" />
   </component>
@@ -168,8 +247,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,30 +274,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Merge">
-    <configuration name="CircularArrayLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CircularArrayLoop" />
-      <module name="com.hanjia.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntegerReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntegerReplacement" />
-      <module name="com.hanjia.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KthGrammar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KthGrammar" />
-      <module name="com.hanjia.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SingleNumber">
     <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Merge" />
+      <module name="com.hanjia.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartitionDisjoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PartitionDisjoint" />
+      <module name="com.hanjia.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleNumber" />
       <module name="com.hanjia.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -231,13 +303,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidSquare" />
+      <module name="com.hanjia.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleNumber" />
+        <item itemvalue="Application.PartitionDisjoint" />
+        <item itemvalue="Application.ValidSquare" />
         <item itemvalue="Application.Merge" />
         <item itemvalue="Application.SubarraysDivByK" />
-        <item itemvalue="Application.KthGrammar" />
-        <item itemvalue="Application.IntegerReplacement" />
-        <item itemvalue="Application.CircularArrayLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +347,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34567901" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4170096" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5048011" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -307,64 +386,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="25" selection-start-line="11" selection-start-column="12" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ToRoman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" column="89" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="89" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5000">
-          <caret line="283" column="12" selection-start-line="283" selection-start-column="12" selection-end-line="283" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/math/BigInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="1503" column="23" selection-start-line="1503" selection-start-column="23" selection-end-line="1503" selection-end-column="23" />
-          <folding>
-            <element signature="e#54505#54506#0" expanded="true" />
-            <element signature="e#54548#54549#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1282">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RomanToInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1525">
-          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
@@ -707,8 +728,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/IntegerReplacement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="175">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="e#144#145#0" expanded="true" />
             <element signature="e#216#217#0" expanded="true" />
@@ -718,8 +739,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SubarraysDivByK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="650">
+          <caret line="28" column="9" selection-start-line="11" selection-start-column="11" selection-end-line="28" selection-end-column="9" />
           <folding>
             <element signature="e#141#142#0" expanded="true" />
             <element signature="e#223#224#0" expanded="true" />
@@ -729,8 +750,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Merge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        <state relative-caret-position="504">
+          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ValidSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#969#970#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PartitionDisjoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="3799" column="20" lean-forward="true" selection-start-line="3799" selection-start-column="20" selection-end-line="3799" selection-end-column="20" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="580" column="40" lean-forward="true" selection-start-line="580" selection-start-column="40" selection-end-line="580" selection-end-column="40" />
+          <folding>
+            <element signature="e#26957#26958#0" expanded="true" />
+            <element signature="e#27022#27023#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="191" column="6" lean-forward="true" selection-start-line="191" selection-start-column="6" selection-end-line="191" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SingleNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
