@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 /**
@@ -10,29 +11,30 @@ public class GetPermutation {
 
     public static void main(String[] args) {
 
-        System.out.println(new Solution().getPermutation(3,2));
+        System.out.println(new Solution().getPermutation(5,2));
 
     }
 
     static class Solution {
         public String getPermutation(int n, int k) {
-            List<List<Integer>> lists = new ArrayList<>();
+            List<Integer> lists = new ArrayList<>();
             int[] nums = new int[n];
             for (int i = 1;i<=n;i++)
                 nums[i-1] = i;
             backStrack(lists,nums,0,nums.length);
-            System.out.println(lists);
 
-            return null;
+            lists.sort(null);
+            System.out.println(lists);
+            return lists.get(k-1).toString();
 
         }
 
-        public void backStrack(List<List<Integer>> lists,int[] nums,int start,int end){
+        public void backStrack(List<Integer> lists,int[] nums,int start,int end){
             if (start==end-1){
-                List<Integer> list = new ArrayList<>();
+                StringBuilder s = new StringBuilder("");
                 for (int n:nums)
-                    list.add(n);
-                lists.add(list);
+                    s.append(n);
+                lists.add(Integer.valueOf(s.toString()));
             }else {
                 for (int i = start; i < nums.length; i++) {
                     swap(nums, start, i);
